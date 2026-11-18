@@ -1,0 +1,5 @@
+{
+  "name": "aegisnir",
+  "owner": { "name": "Aegisnir" },
+  "plugins": [{ "name": "runenir-theme", "source": "./" }]
+}
