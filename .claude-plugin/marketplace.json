@@ -1,5 +1,13 @@
 {
   "name": "aegisnir",
-  "owner": { "name": "Aegisnir" },
-  "plugins": [{ "name": "runenir-theme", "source": "./" }]
+  "description": "The Runenir theme for Claude, by Aegisnir",
+  "owner": {
+    "name": "Aegisnir"
+  },
+  "plugins": [
+    {
+      "name": "runenir-theme",
+      "source": "./"
+    }
+  ]
 }

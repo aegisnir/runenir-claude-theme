@@ -1,8 +1,13 @@
 {
   "name": "runenir-theme",
-  "version": "0.1.0",
+  "displayName": "Runenir theme",
+  "version": "0.1.1",
   "description": "Runenir look for the Claude desktop and mobile apps, in nine gemstone colours",
-  "author": { "name": "Aegisnir" },
+  "author": {
+    "name": "Aegisnir"
+  },
   "license": "MIT",
-  "repository": "https://github.com/aegisnir/runenir-claude-theme"
+  "homepage": "https://github.com/aegisnir/runenir-claude-theme",
+  "repository": "https://github.com/aegisnir/runenir-claude-theme",
+  "icon": "./.claude-plugin/icon.png"
 }
